@@ -1,0 +1,63 @@
+/******
+Autor: EWebik
+web: https://ewebik.com.mx
+*******/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.ewk_navbar {
+    background-color: rgb(255, 255, 255) !important;
+}
+
+.ewk_navbar div, .ewk_navbar ul{
+    background-color: transparent !important;
+}
+
+.ewk_cont_sec_1{
+    padding: 10%;
+    margin-top: 20%;
+}
+
+.ewk_cont_sec_1_link{
+    padding: 5%;
+ 
+}
+
+.ewk_cont_sec_1_link a{
+    width: 200px;
+}
+
+.ewk_cont_sec_1 hr{
+    border-top: 1px solid rgba(1, 1,1, 0.3);
+}
+
+.ewk_cont_footer{
+    width: 1500%;
+    background-color:rgba(4, 25, 55, 0.933);
+    color: rgb(252, 251, 251);
+    margin-top: 50px;
+   
+}
+  
+
+.ewk_cont_footer a{
+    color: rgb(249, 245, 255);
+    text-decoration: none;
+    display: block;
+}
+.ewk_cont_img_footer{
+    padding: 5%;
+}
+
+  .contacto{
+    padding-bottom: 60px;
+  }
+  
