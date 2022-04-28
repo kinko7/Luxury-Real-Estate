@@ -47,7 +47,9 @@ body {
    
 }
   
-
+.rounded{
+    border-radius:100% !important; 
+   }
 .ewk_cont_footer a{
     color: rgb(249, 245, 255);
     text-decoration: none;
